@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "name": "Закуски",
+      "positions": [
+        {"name": "Снеки", "quantity": 0, "type": "г"},
+        {"name": "Сосиски", "quantity": 0, "type": "шт"},
+        {"name": "Сухари", "quantity": 0, "type": "г"}
+      ]
+    },
+    {"name": "Хозтовары",
+      "positions": [
+        {"name": "Мыло", "quantity": 0, "type": "шт"},
+        {"name": "Спрей", "quantity": 0, "type": "шт"}
+      ]
+    },
+    {"name": "Доп товары",
+      "positions": [
+        {"name": "Доп товар 1", "quantity": 0, "type": "шт"},
+        {"name": "Доп товар 2", "quantity": 0, "type": "г"}
+      ]
+    }
+  ]
+}
